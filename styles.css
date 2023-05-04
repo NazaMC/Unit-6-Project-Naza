@@ -1,0 +1,51 @@
+body {
+    
+    background-color: #fcaca7;
+    text-align: center;
+    color: black;
+ 
+}
+
+input {
+    width: 35%;
+    padding: 12px 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 35px;
+}
+.pop-icon {
+    border: 1px solid;
+    width: 300px;
+    height: 200px;
+}
+
+
+img {
+    border: 3px solid;
+    width: 200px;
+    height: 200px;
+}
+
+button {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 20px;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #62fa5f;
+    border-color: #d8d8d8;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 35px;
+}
+
+/* Este es el estilo al poner el cursor encima del boton*/
+button:hover {
+    background-color: #f77d74;
+}
